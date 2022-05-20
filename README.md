@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adomigold
 - 👀 I’m interested in Python, Django, JS, Next.js, React and CyberSecurityy Issues
-- 🌱 I’m currently learning Django now
 - 💞️ I’m looking to collaborate on All python projects
 - 📫 How to reach me adolphgasper@protonmail.com
 
