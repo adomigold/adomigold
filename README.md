@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adomigold
 - 👀 I’m interested in Python, Django, JS, Next.js, React and CyberSecurityy Issues
-- 💞️ I’m looking to collaborate on All python projects
+- 💞️ I’m looking to collaborate on All python and javascript projects
 - 📫 How to reach me adolphmapunda@adobus.co.tz
 
 <!---
