@@ -47,13 +47,14 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
                 <ul>
                     <li>Flask | React | Next.js | Django | Laravel | Codegniter</li>
                 </ul>
+            </li>
             <li>
-              <li>
                 <p>Mobile Frameworks</p>
                 <ul>
                     <li>React Native | Flutter</li>
                 </ul>
-            <li>
+            </li>
+              <li>
                 <p>Data Science (AI)</p>
                 <ul>
                     <li>PyTorch | Nltk | Spacy | </li>
