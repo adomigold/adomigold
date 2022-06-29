@@ -161,14 +161,14 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
 </samp>
 
  ### Trophy stats                      
-[![Adomigold's github trophy](https://github-profile-trophy.vercel.app/?username=adomigold&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![Adomigold's github trophy](https://github-profile-trophy.vercel.app/?username=adomigold&row=1&theme=algolia&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Github stats
-![Adomigold's GitHub stats](https://github-readme-stats.vercel.app/api?username=adomigold&show_icons=true&theme=algolia)
-[![Adomigold's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adomigold&theme=blue-green)](https://github.com/judeleonard/github-readme-streak-stats)
+![Adomigold's GitHub stats](https://github-readme-stats.vercel.app/api?username=adomigold&show_icons=true&theme=algolia&count_private=true)
+[![Adomigold's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adomigold&theme=blue-green&count_private=true)](https://github.com/judeleonard/github-readme-streak-stats)
 
 ### GitHub activity graph📉:
-[![Adomigold's github activity graph](https://activity-graph.herokuapp.com/graph?username=adomigold&theme=react-dark)](https://github.com/judeleonard/github-readme-activity-graph)
+[![Adomigold's github activity graph](https://activity-graph.herokuapp.com/graph?username=adomigold&theme=react-dark&count_private=true)](https://github.com/judeleonard/github-readme-activity-graph)
 
 ### Here are random jokes to brighten up your day:smile:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
