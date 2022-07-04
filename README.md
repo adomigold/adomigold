@@ -170,5 +170,10 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
 ### GitHub activity graph📉:
 [![Adomigold's github activity graph](https://activity-graph.herokuapp.com/graph?username=adomigold&theme=react-dark&count_private=true)](https://github.com/judeleonard/github-readme-activity-graph)
 
+### GitHub Contributions
+<p>
+  <img src="https://github.com/adomigold/adomigold/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 ### Here are random jokes to brighten up your day:smile:
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
