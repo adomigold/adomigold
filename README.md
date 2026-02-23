@@ -16,7 +16,7 @@ I share my love for technology through my portfolio site <a href="https://adolph
 - ☁️ I work as an Adoschool Technical Lead at [Adoschool](https://adoschool.com/)
 - 🤓 I am the CEO and Solo-founder of [Adoschool](https://www.adoschool.com), an indie company that helps schools automate everyday activities
 - 🌱 I’m currently learning the AWS Cloud course, Angular, and Go
-- 📝 I am writing a tool that will revolutionize how schools in Tanzania operate and fill the gap between schools and goverment
+- 📝 I am writing a tool that will revolutionize how schools in Tanzania operate and fill the gap between schools and the government
 
 
 ## GitHub Space Shooter
@@ -89,41 +89,12 @@ I share my love for technology through my portfolio site <a href="https://adolph
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adomigold&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adomigold&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adomigold&theme=github) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 🏆GitHub Trophies
-<p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</p>
-
-## 📝 Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider](https://dev.to/playfulprogramming/github-copilot-to-generate-conventional-commit-messages-in-vscode-and-jetbrains-rider-1n3b)
-- [A Practical GitFlow Setup That Works on GitHub](https://dev.to/playfulprogramming/a-practical-gitflow-setup-that-works-on-github-46lb)
-- [How I created a Cozy Workspace in VS Code](https://dev.to/playfulprogramming/how-i-created-a-cozy-workspace-in-vs-code-4bf0)
-- [Why I Built TaskDeck and How It Improves Your VS Code Workflow](https://dev.to/playfulprogramming/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9)
-- [Why I Use JetBrains Rider for .NET Development](https://dev.to/playfulprogramming/why-i-use-jetbrains-rider-for-net-development-2a8k)
-<!-- BLOG-POST-LIST:END -->
-
-## ⚡ Recent Activities
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/kasuken/copilot-devpersona/releases/tag/v1.0.0) in [kasuken/copilot-devpersona](https://github.com/kasuken/copilot-devpersona)
-2. ℹ️ Unassigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. ℹ️ Labeled issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. ❗ Opened issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. ℹ️ Assigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-<!--END_SECTION:activity-->
-
-## 💰You can help me by donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasuken) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kasuken) 
-
 ## 💌 Contact Me
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/kasuken)
-[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kasuken)
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bartolesiemanuele)
-[<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCU67JYtJURWRTx7vrdx9APg)
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/adomigold)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adolph-gasper-106474178/)
 
 ---
-<p align="center"> © 2025 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
+<p align="center"> © 2026 Adolph Gasper, all rights reserved. Made with ❤️. </p>
 <p align="center">
-https://www.emanuelebartolesi.com
+https://adolphmapunda.vercel.app
 </p>
