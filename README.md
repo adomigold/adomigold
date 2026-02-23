@@ -62,7 +62,7 @@ I share my love for technology through my portfolio site <a href="https://adolph
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ## ⚙️ IDE & Editors
@@ -85,9 +85,9 @@ I share my love for technology through my portfolio site <a href="https://adolph
 
 ## 📈 GitHub Stats
 
-[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adomigold&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adomigold&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adomigold&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adomigold&theme=github) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
