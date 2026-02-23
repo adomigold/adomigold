@@ -22,7 +22,7 @@ I share my love for technology through my portfolio site <a href="https://adolph
 ## GitHub Space Shooter
 
 <p align=center>
-<img src="game.gif" alt="GitHub Space Shooter">
+![My GitHub Game](game.gif)
 </p>
 
 ## 👨🏻‍💻 Programming Languages
