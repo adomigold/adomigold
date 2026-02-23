@@ -1,171 +1,129 @@
-![](https://komarev.com/ghpvc/?username=adomigold)
 
-![](https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif)
-<samp>
-<p>Hi there !</p>
+# Hi, I'm Adolph Gasper 👋 🏊🚴🏃 💻
 
+<img src="https://res.cloudinary.com/dfgg73dvr/image/upload/v1620060487/coding-freak_cbcf0o.gif" alt="Adolph Gasper Gasper Mapunda - software engineer, entrepreneur" />
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~010940fc8047275743/)](https://www.upwork.com/o/profiles/users/~010940fc8047275743/)
+I'm the **CEO and solo founder of - <a href="https://adoschool.com">Adoschool</a></b>**, and I'm passionate about **backend technologies** and everything related to the cloud, especially **AWS**.
+I currently live in **Dar es Salaam, Tanzania** and am actively building products for other businesses and companies as an external vendor.
+I share my love for technology through my portfolio site <a href="https://adolphmapunda.vercel.app">adolphmapunda.vercel.app</a></b>.
 
-### Who am I ?
-<p>
-I'm <b><a href="https://adolphmapunda.vercel.app">Adolph Mapunda</a></b>, A Tech Nerd, Ever since I came across this world of programming I never looked back I engaged myself in building projects as a way to solidify my understanding, I built tons of them and some got a chance to be recognized including <b><a href="https://adomovies.com">Adomovies</a></b> an online movie stream web app, <b><a href="https://adobus.co.tz">Adobus</a></b> an online bus booking platform, <b><a href="https://sms.shuledirect.co.tz">MAKINI SMS</a></b> an SMS platform that students are able to get educational contents from Shule direct and later <b><a href="https://tichakidevu.shuledirect.co.tz">Ticha Kidevu</a></b> a conversational AI that use the power of NLP to chat with students concerning educational contents.
+## 🌎 Find me around the web 
+- Sharing updates on <a href="https://www.linkedin.com/in/adolph-gasper-106474178/">LinkedIn</a> 💼
+- My site: <a href="https://adolphmapunda.vercel.app" target="_blank">adolphmapunda.vercel.app</a>
 
-### Graduate from tutorial university
+## ✨ Current situation
 
-Perhaps of having a background in Mass communication and journalism, I managed in someway to transform my hobby into career through thousands of hours spend on watching tutorials, reading books and blogs and building projects, nowdays I mainly work as a Software Developer
-
-### What I'm good at
-
-I have rich experience in developing (Web|Mobile) Backends and Frontends, AI solutions, Microservices, and DevOps using Python and Javascript at high quality following best practices. I worked with High-quality companies including Omuha Company and Shule Direct and developed a solutions that is being used by thousands of people. And also own my own software company called Adobus Company.
-
-  
-### Hire me 
-
-I'm primarily work for Contracts works and But also open to full time roles , Let's talk
+- ☁️ I work as an Adoschool Technical Lead at [Adoschool](https://adoschool.com/)
+- 🤓 I am the CEO and Solo-founder of [Adoschool](https://www.adoschool.com), an indie company that helps schools automate everyday activities
+- 🌱 I’m currently learning the AWS Cloud course, Angular, and Go
+- 📝 I am writing a tool that will revolutionize how schools in Tanzania operate and fill the gap between schools and goverment
 
 
+## GitHub Space Shooter
 
+<p align=center>
+<img src="game.gif" alt="GitHub Space Shooter">
 </p>
 
-[![Become a patron](become_a_patron_button.png)](https://www.patreon.com/adolphgasper)
+## 👨🏻‍💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</p>
 
-<h3>My Tech stack</h3>
-<ul>
-    <li>
-        <p><b>languages</b></p>
-        <ul>
-            <li>Python | Javascript | PHP | Dart</li>
-            <li>Html | Css | AIML | Json</li>
-        </ul>
-    </li>
-    <li>
-        <p><b>Frameworks & Tools</b></p>
-        <ul>
-            <li>
-                <p>Web Frameworks</p>
-                <ul>
-                    <li>Flask | React | Next.js | Django | Laravel | Codegniter</li>
-                </ul>
-            </li>
-            <li>
-                <p>Mobile Frameworks</p>
-                <ul>
-                    <li>React Native | Flutter</li>
-                </ul>
-            </li>
-              <li>
-                <p>Data Science (AI)</p>
-                <ul>
-                    <li>PyTorch | Nltk | Spacy | </li>
-                </ul>
-            </li>
-            <li>
-                <p> Databases & Storange</p>
-                <ul>
-                    <li> Sqlite | Mysql | MariaDB | Postgres</li>
-                    <li>MongoDB | Redis</li>
-                </ul>
-                </li>
-            <li>
-                <p>Serverless</p>
-                <ul>
-                    <li> Aws Lambda | Vercel</li>
-                </ul>
-                </li>
-        <li>
-            <p> Cloud & Hosting</samp</p>
-            <ul>
-                <li>AWS | Google Cloud | Digital Ocean | Heroku | Vercel | Linode</li>
-            </ul>
-        </li>
-        <li>
-            <p> API Testing</samp</p>
-            <ul>
-                <li>Postman</li>
-            </ul>
-        </li>
-        <li>
-            <p> Distros </samp</p>
-            <ul>
-                <li> Ubuntu | Deepin | Kali </li>
-            </ul>
-        </li>
-        <li>
-            <p> Shells </samp</p>
-            <ul>
-                <li> Zsh | Bash  </li>
-            </ul>
-        </li>
-        <li>
-            <p> Version Control </samp</p>
-            <ul>
-                <li> Git | Github | Bitbucket| GitLab </li>
-            </ul>
-        </li>
-        <li>
-            <p> Code Editor(IDE) + Environment </samp</p>
-            <ul>
-                <li> VSCode | Sublime | Vim | Nano  </li>
-                <li> Music + Coffee + Snacks
-            </ul>
-        </li>
-        </ul>
-    </li>
-    <li>
-        <p><b> Works </b></p>
-        <p>These are some of companies with my fingerprints</p>
-        <ul>
-            <li>
-                <a href="https://adobus.co.tz/">Adobus</a> |
-                <a href="https://www.shuledirect.co.tz/">Shule Direct</a> |
-                <a href="https://www.omuha.com/">Omuha Company</a> |
-            </li>
-        </ul>
-    </li>
-    <li>
-        <p><b>Blog And Articles</b></p>
-        <p>Sometimes I write technical articles & tutorials on these platform </p>
-        <ul>
-            <li>
-                <a href="#">No Post</a> |   
-            </li>
-        </ul>
-    </li>
-    <li>
-        <p><b> Hobbies </b></p>
-        <ul>
-            <li>Movies (Sillicon Valey | Who am i | Moon Knight | Mr Robot | Hacker | See)</li>
-            <li>
-              <p>Music (Pop(Michael Jackson), Electro(Avicii)) </p>       
-               </li>
-            <li> 
-                <p> Adventures (Hiking, Wild Life) </p>
-            </li>
-            <li>Space (Huge fan of space, sometimes I take it seriously as code)</li>
-            <li>.....</li>    
-        </ul>
-    </li>
-    <li>  
-        <p><b>How to reach me !! <b><p>
-        <ul>
-            <li>
-                <a href = "mailto:adolphgasper@gmail.com">adolphgasper@gmail.com</a> | 
-                <a href = "https://twitter.com/AdolphGasper1">twittter</a> |
-                <a href = "https://www.instagram.com/adolphgasper/">instagram</a> |
-                <a href = "https://www.linkedin.com/in/adolph-gasper-106474178/" >linkedin</a> |
-            </li>
-        </ul>
-    </li>
-</ul>
-</samp>
+## 💻 Framework and Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-512BD4?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
+</p>
 
- ### Trophy stats                      
-[![Adomigold's github trophy](https://github-profile-trophy.vercel.app/?username=adomigold&row=1&theme=algolia&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+## ☁️ Cloud Services
+<p align="left">
+   <img src="https://img.shields.io/badge/aws-%230072C6.svg?style=for-the-badge&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-### Github stats
-![Adomigold's GitHub stats](https://github-readme-stats.vercel.app/api?username=adomigold&show_icons=true&theme=algolia&count_private=true)
-[![Adomigold's github streak](https://github-readme-streak-stats.herokuapp.com/?user=adomigold&theme=blue-green&count_private=true)](https://github.com/judeleonard/github-readme-streak-stats)
+## 💾 Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### Here are random jokes to brighten up your day:smile:
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
+## ⚙️ IDE & Editors
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+</p>
+
+## 🔨 Productivity Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+</p>
+
+## 🦾 Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+## 📈 GitHub Stats
+
+[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## 🏆GitHub Trophies
+<p align="center" style="witdh:100%">
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</p>
+
+## 📝 Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider](https://dev.to/playfulprogramming/github-copilot-to-generate-conventional-commit-messages-in-vscode-and-jetbrains-rider-1n3b)
+- [A Practical GitFlow Setup That Works on GitHub](https://dev.to/playfulprogramming/a-practical-gitflow-setup-that-works-on-github-46lb)
+- [How I created a Cozy Workspace in VS Code](https://dev.to/playfulprogramming/how-i-created-a-cozy-workspace-in-vs-code-4bf0)
+- [Why I Built TaskDeck and How It Improves Your VS Code Workflow](https://dev.to/playfulprogramming/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9)
+- [Why I Use JetBrains Rider for .NET Development](https://dev.to/playfulprogramming/why-i-use-jetbrains-rider-for-net-development-2a8k)
+<!-- BLOG-POST-LIST:END -->
+
+## ⚡ Recent Activities
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.0](https://github.com/kasuken/copilot-devpersona/releases/tag/v1.0.0) in [kasuken/copilot-devpersona](https://github.com/kasuken/copilot-devpersona)
+2. ℹ️ Unassigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. ℹ️ Labeled issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. ❗ Opened issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. ℹ️ Assigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+<!--END_SECTION:activity-->
+
+## 💰You can help me by donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasuken) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kasuken) 
+
+## 💌 Contact Me
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/kasuken)
+[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kasuken)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/bartolesiemanuele)
+[<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCU67JYtJURWRTx7vrdx9APg)
+
+---
+<p align="center"> © 2025 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
+<p align="center">
+https://www.emanuelebartolesi.com
+</p>
