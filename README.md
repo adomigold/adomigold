@@ -22,7 +22,7 @@ I share my love for technology through my portfolio site <a href="https://adolph
 ## GitHub Space Shooter
 
 <p align=center>
-![My GitHub Game](game.gif)
+<img src="/game.gif" alt="Adolph Gasper Gasper Mapunda - software engineer, entrepreneur" />
 </p>
 
 ## 👨🏻‍💻 Programming Languages
